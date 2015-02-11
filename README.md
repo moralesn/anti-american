@@ -1,10 +1,9 @@
 # anti-american
-Author: Norberto R. Morales
 
-Project Name: Fighting the Good Fight: The Impact of Military Disputes on Anti-Americanism
+Project Name: Militarized Disputes and Anti-American Public Opinion
 
-Purpose: Study the impact of conflcit on anti-American public opinion.
+Purpose: Programming code for the cleaning, manipulation, and analysis of data.
 
-Created on:
+Created on: 2/6/15
 
-Last Modified: 
+Last Modified: 2/11/15
