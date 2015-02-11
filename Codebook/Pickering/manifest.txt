@@ -1,0 +1,46 @@
+File Manifest for ICPSR 21282
+
+Kisangani, Emizet F., and Jeffrey Pickering. INTERNATIONAL MILITARY
+INTERVENTION, 1989-2005. Manhattan, KS: Emizet F. Kisangani and Jeffrey
+Pickering, Kansas State University [producer], 2007. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2008-01-29. http://doi.org/10.3886/ICPSR21282.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    21282-related_literature.txt        -       -         -       2014-07-09  -
+
+    21282-manifest.txt                  -       -         -       2014-07-10  -
+
+
+DS0001 International Military Intervention, 1989-2005
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    21282-0001-Codebook.pdf             -       -         -       2008-01-29  0c124274a6004701c4582035ff4f4dc4
+
+    21282-0001-Data.dta                 -       447       27      2008-01-29  8e2e2657a24d1a84dff3f5dd1eab573d
+
+    21282-0001-Data.sav                 -       447       27      2008-01-29  fd68a8c454ee05eb3f753dcc79593fb3
+
+    21282-0001-Data.stc                 -       447       27      2008-01-29  c72ec0494eabb065237ba8b3791525aa
+
+    21282-0001-Data.tsv                 -       447       27      2008-01-29  c95db345df412fef975572bdda14dfea
+
+    21282-0001-Data.txt                 385     447       27      2008-01-29  a3e11801de553929dd5ace680f935ee9
+
+    21282-0001-Setup.dct                -       -         -       2008-01-29  59c1d39b9896a1697369986d09bcaefa
+
+    21282-0001-Setup.do                 -       -         -       2008-01-29  f3aad5faf99b875e10edecb20c9a077c
+
+    21282-0001-Setup.sas                -       -         -       2008-01-29  8df06e9ab4cff9d9a69c507e2a474d78
+
+    21282-0001-Setup.sps                -       -         -       2008-01-29  22c07013c1114c2db04c4b3e91884631
+
+    21282-0001-Supplemental_syntax.sas  -       -         -       2008-01-29  12e958de053005bd119ffcf668cd177f
+

@@ -1,0 +1,93 @@
+Bibliography
+International Military Intervention, 1989-2005
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 21282. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2014-07-10.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Choi, Seung-Whan, "What determines US humanitarian intervention?."
+Conflict Management and Peace Science. Apr 2013, 30, (2), 121 - 139. DOI:
+10.1177/0738894212473916
+
+2. Kathman, Jacob D.; Wood, Reed M., "Managing threat, cost, and incentive
+to kill the short-and long-term effects of intervention in mass killings."
+Journal of Conflict Resolution. Oct 2011, 55, (5), 735 - 760. DOI:
+10.1177/0022002711408006
+
+3. Kisangani, Emizet F; Pickering, Jeffrey, "Democratic accountability and
+diversionary force regime types and the use of benevolent and hostile
+military force." Journal of Conflict Resolution. 2011, 55, 1021 - 1046.
+DOI: 10.1177/0022002711414375
+
+4. Kisangani, Emizet N.F.; Pickering, Jeffrey, "Diverting with benevolent
+military force:  Reducing risks and rising above strategic behavior."
+International Studies Quarterly . Jun 2007, 51, (2), 277 - 300. DOI:
+10.1111/j.1468-2478.2007.00452.x
+
+5. Koga, Jun, "Where do third parties intervene? Third parties’ domestic
+institutions and military interventions in civil conflicts." International
+Studies Quarterly. Dec 2011, 55, (4), 1143 - 1166. DOI: 10.1111/j.1468-
+2478.2011.00684.x
+
+6. Krain, Matthew, "International intervention and the severity of
+genocides and politicides." International Studies Quarterly. Sep 2005, 49,
+(3), 363 - 387. DOI: 10.1111/j.1468-2478.2005.00369.x
+
+7. Pearson, Frederic S.; Baumann, Robert A.; Pickering, Jeffrey, "Military
+intervention and realpolitik." In Wayman, Frank W.; Diehl, Paul F.,
+Reconstructing Realpolitik . 205 - 225, Ann Arbor: University of
+Michigan,1994.
+
+8. Pickering, Jeffrey, "Dangerous drafts? A time-series, cross-national
+analysis of conscription and the use of military force, 1946-2001." Armed
+Forces and Society. 2011, 37, 119 - 140. DOI: 10.1177/0095327X09358651
+
+9. Pickering, Jeffrey, "Give me shelter: Re-examining military intervention
+and the monadic democratic peace." International Interactions. Oct 2002,
+28, (4), 293 - 324. DOI: 10.1080/03050620214756
+
+10. Pickering, Jeffrey, "The structural shape of force: Interstate
+intervention in the zones of peace and turmoil." International
+Interactions. Dec 1999, 25, (4), 363 - 391. DOI: 10.1080/03050629908434957
+
+11. Pickering, Jeffrey; Kisangani, Emizet F., "Diversionary despots?
+Comparing autocracies' propensities to use and to benefit from military
+force." American Journal of Political Science. Apr 2010, 54, (2), 477 -
+493.
+
+12. Pickering, Jeffrey; Kisangani, Emizet F., "Foreign military
+intervention and post-colonial state-building: An actor-centric analysis."
+Conflict Management and Peace Science. 2013, 1 - 21. DOI:
+10.1177/0738894213508723
+
+13. Pickering, Jeffrey; Kisangani, Emizet F., "The International Military
+Intervention dataset: An updated resource for conflict scholars." Journal
+of Peace Research. Jul 2009, 46, (4), 589 - 599.
+
+14. Pickering, Jeffrey; Kisangani, Emizet N.F., "Political, economic, and
+social consequences of foreign military intervention." Political Research
+Quarterly. Sep 2006, 59, (3), 363 - 376. DOI: 10.1177/106591290605900304
+
+15. Pickering, Jeffrey; Kisangani, Emizet N.F. , "Democracy and
+diversionary military intervention:  Reassessing regime type and the
+diversionary hypothesis." International Studies Quarterly. Mar 2005, 49,
+(1), 23 - 44. DOI: 10.1111/j.0020-8833.2005.00333.x
+
+16. Pickering, Jeffrey; Peceny, Mark;, "Forging democracy at gunpoint."
+International Studies Quarterly. Sep 2006, 50, (3), 539 - 560. DOI:
+10.1111/j.1468-2478.2006.00413.x
+
+17. Pickering, Jeffrey; Thompson, William R., "Stability in a fragmenting
+world: Interstate military force, 1946-1988." Political Research Quarterly.
+Mar 1998, 51, (1), 241 - 263.
+
+18. Pilster, Ulrich, "Are democracies the better allies? The impact of
+regime type on military coalition operations." International Interactions.
+2011, 37, (1), 55 - 85. DOI: 10.1080/03050629.2011.546259
